@@ -16,7 +16,7 @@ class SBE3 {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/shrimech)](https://profile.intra.42.fr/users/shrimech) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon
+| [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/shrimech)](https://profile.intra.42.fr/users/shrimech) | 🔭 I’m currently working on : million-person <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)
 
 
 
