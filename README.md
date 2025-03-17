@@ -3,7 +3,7 @@
 ```cpp
 class SBE3 {
 	private :
-		std::string	Name = "shrimech";
+		std::string	Name = "HRIMECHE salah eddine";
 		std::string	SU = "SBE3";
 		std::string	Quote = "Sell your house of cards while it still looks like a castle";
 		int		Age = 23;
@@ -16,20 +16,8 @@ class SBE3 {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/shrimech)](https://profile.intra.42.fr/users/shrimech) | 👋 Hi, I'm "salah eddine HRIMECHE"
-A passionate C/C++ Developer and Linux enthusiast. With a strong foundation in systems programming, I specialize in crafting high-performance applications that run efficiently on diverse platforms. My focus is on writing optimized, reliable code that handles complex tasks with precision and speed.
-
-🔧 What I Do:
-
-C/C++ Programming: Building robust, efficient software with an eye for detail and optimization.
-Linux Systems: Developing applications in Linux environments, leveraging its power and flexibility.
-Systems Programming: Creating low-level applications, focusing on memory management and performance.
-💡 Why Choose Me:
-
-I’m driven by a passion for solving challenging problems.
-I have a keen eye for performance and optimization.
-I believe in clean, maintainable, and scalable code.
-🚀 Let’s collaborate to build cutting-edge software solutions that deliver speed and efficiency. Whether it's for embedded systems, performance-critical applications, or tools on Linux, I’m ready to bring your ideas to life!
+| [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/shrimech)](https://profile.intra.42.fr/users/shrimech) | 👋 Hi! I'm Salah Eddine Hrimiche
+💻 Age: 23 | Role: Software Engineer
 
 
 
