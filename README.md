@@ -17,7 +17,7 @@ class SBE3 {
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
 | [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/shrimech)](https://profile.intra.42.fr/users/shrimech) | 👋 Hi! I'm Salah Eddine Hrimiche
-💻 Age: 23 | Role: Software Engineer
+|💻 Age: 23  Role: Software Engineer
 
 
 
