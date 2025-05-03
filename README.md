@@ -30,7 +30,7 @@ class SBE3 {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![shrimech's 42 stats](https://badge.mediaplus.ma/binary/shrimech)](https://profile.intra.42.fr/users/shrimech) | 👨‍💻 Hi! I’m Salah Eddine Hrimiche <br> 🎂 Age: 23 | 💻 Software Engineer <br> 🔭 I’m currently working on: Building scalable software solutions and improving my skills in software architecture. <br> 🌱 I’m learning: New programming languages and technologies to expand my toolkit. 
+| [![shrimech's 42 stats](https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/486065226_1042341674581281_8582257451085471321_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MSyK9NpBj6YQ7kNvwEsYzjD&_nc_oc=AdkoayluvQoUwAmxXch1cr679JhrckxkmwGNoZVnxvJDf3TmRxVlAWSZ_q82fCg5mSU&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=naGKWCsqgG7z_yHMucDc3Q&oh=00_AfGDh37Qrj_O5kpMaIja1sb1wE_cFSG9WSU1yH_hTRefaw&oe=681B52E8)](https://profile.intra.42.fr/users/shrimech) | 👨‍💻 Hi! I’m Salah Eddine Hrimiche <br> 🎂 Age: 23 | 💻 Software Engineer <br> 🔭 I’m currently working on: Building scalable software solutions and improving my skills in software architecture. <br> 🌱 I’m learning: New programming languages and technologies to expand my toolkit. 
 
 
 
