@@ -7,6 +7,7 @@
 |<h2>👨‍💻 Hi! I’m Salah Eddine Hrimiche <br> 🎂 Age: 2001/10/08 (23) <br> <h1> Passionate Software Engineering student @ <br> <h2>to see My Stats CLIC HERE  -->| [![shrimech's 42 stats](https://scontent.frba2-2.fna.fbcdn.net/v/t39.30808-6/486065226_1042341674581281_8582257451085471321_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xJuQtewB2F0Q7kNvwGKNymD&_nc_oc=AdnqokDNXjvNJMIVBTlpaTQ_1OHobZs192rOrDEgFXX_5CehYHT_aapfM2XSV9YBexo&_nc_zt=23&_nc_ht=scontent.frba2-2.fna&_nc_gid=Q5cnm52k797wtK0uk24OKw&oh=00_AfJG54BuFmCtvU9cqOba84mCWc-Zd4kdrf9Z2-4qAniHEw&oe=6830A328)](https://profile.intra.42.fr/users/shrimech) |
 
 
+
 ```
                 /* ************************************************************************** */
                 /*                                                                            */
