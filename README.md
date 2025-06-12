@@ -4,7 +4,7 @@
 
 | 💫 About Me: | My 42 Campus |
 | --- | --- |
-|<h2>👨‍💻 Hi! I’m Salah Eddine Hrimiche <br> 🎂 Age: 2001/10/08 (23) <br> <h1> Passionate Software Engineering student @ <br> <h2>to see My Stats CLIC HERE  -->| [![shrimech's 42 stats](https://www.facebook.com/photo/?fbid=940215024793947&set=a.461660302649424&__cft__[0]=AZUa4xwiQUroefRZwwHMIk1lX3X_d26Yj57A-K7646dFcsWK2OXPpM5DVWv8xrzrJ2Yv4IJ4i2WEJv4OIsoVCtjz_16GBgLH_OryRgx1_Yz4nxYDViIHYW6dM5wEGc1kn5HXTIAeta2fDBjqrJZrcQlMmqAifCQfcEKF2NbfFVOUaA&__tn__=EH-R)](https://profile.intra.42.fr/users/shrimech) |
+|<h2>👨‍💻 Hi! I’m Salah Eddine Hrimiche <br> 🎂 Age: 2001/10/08 (23) <br> <h1> Passionate Software Engineering student @ <br> <h2>to see My Stats CLIC HERE  -->| [![shrimech's 42 stats](https://drh.ma/wp-content/uploads/2022/03/1337-1140x620.jpg)](https://profile.intra.42.fr/users/shrimech) |
 
 
 ```
