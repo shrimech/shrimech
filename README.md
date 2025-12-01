@@ -1,29 +1,30 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/logos/header.png" alt="Header Image" width="100%"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/logos/header.png" alt="Awesome Header Banner" width="100%"/>
 </div>
 
-# 👋 Who Am I?
+# 🔥 WHO AM I? - The Code Dynamo!
 
-| ✨ **About Me** | 🏫 **My 42 Campus** |
+| 🌟 **About Salah Eddine** | 🚀 **My 42 Campus Mission** |
 | :--- | :--- |
 | 🧑‍💻 **Salah Eddine Hrimiche** | [![shrimech's 42 stats](https://badge.mediaplus.ma/greenbinary/shrimech)](https://profile.intra.42.fr/users/shrimech) |
-| 📅 **Born:** 2001/10/08 (24 years old) | **School:** [1337 - Coding School](https://www.1337.ma/) |
-| 🎓 **Title:** Passionate **Software Engineering** student @ 1337 | 🚀 **Started:** 2024/10/21 |
-| 📧 **Email:** `<eddinen77@gmail.com>` | [Click to see My 42 Stats -->](https://profile.intra.42.fr/users/shrimech) |
+| 🎂 **The Year:** 2001 (Level Up ⬆️: 24!) | **Campus:** [1337 - Coding School](https://www.1337.ma/) |
+| 💥 **The Goal:** Passionate **Software Engineering** student crushing it @ 1337 | 🗓️ **Mission Start:** 2024/10/21 |
+| 📬 **My Inbox:** `<eddinen77@gmail.com>` | [**ACCESS 42 STATS!** ➡️](https://profile.intra.42.fr/users/shrimech) |
 
 ---
 
-## ⚙️ **Code Commentary**
+## ⚡️ **Code Block Energy**
+
+*(Just a bit of C code for the nostalgic developers!)*
 
 ```c
 /* ************************************************************************** */
+/* * C O D I N G   F O R   T H E   W I N ! ! !   * ************************ */
+/* ************************************************************************** */
 /* */
-/* :::      ::::::::  ::::::::                                */
-/* :+:      :+:    :+: :+:    :+:                             */
-/* +:+ +:+         +:+  +:+                                   */
-/* Salah Eddine HRIMECHE  +:+  +:+    +:+                             */
-/* +#+  +:+    +#+                                            */
-/* +#+#+#+#  +#+                                               */
-/* Started @42"1337" : 2024/10/21 00:00:00  ###   ########.fr          */
+/* Project: Super_Software_Engineer_V1.0                                 */
+/* Author: Salah Eddine HRIMECHE (@shrimech)                             */
+/* School: 42 "1337"                                                     */
+/* Status: Transcendance Loading... █ █ █ ░ ░                             */
 /* */
 /* ************************************************************************** */
