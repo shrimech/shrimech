@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/logos/header.png" alt="Awesome Header Banner" width="100%"/>
+  <img src="https://www.hellowork.com/fr-fr/medias/competences-developpeur-informatique.html" alt="Awesome Header Banner" width="100%"/>
 </div>
 
 # 🔥 WHO AM I? - The Code Dynamo!
