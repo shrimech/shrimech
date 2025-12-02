@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.hellowork.com/fr-fr/medias/competences-developpeur-informatique.html" alt="Awesome Header Banner" width="100%"/>
+  <img src="https://f.hellowork.com/edito/sites/3/2016/02/code_developpeur.jpg" alt="Awesome Header Banner" width="100%"/>
 </div>
 
 # 🔥 WHO AM I? - The Code Dynamo!
