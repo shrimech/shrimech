@@ -2,7 +2,6 @@
   <img src="https://f.hellowork.com/edito/sites/3/2016/02/code_developpeur.jpg" alt="Awesome Header Banner" width="100%"/>
 </div>
 
-
 # 🔥 WHO AM I? - The Code Dynamo!
 
 | 🌟 **About Salah Eddine** | 🚀 **My 42 Campus Mission** |
