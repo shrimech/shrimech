@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://f.hellowork.com/edito/sites/3/2016/02/code_developpeur.jpg" alt="Awesome Header Banner" width="100%"/>
+  <img src="[https://f.hellowork.com/edito/sites/3/2016/02/code_developpeur.jpg" alt="Awesome Header Banner" width="100%](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
 </div>
 
 # 🔥 WHO AM I? - The Code Dynamo!
