@@ -11,7 +11,7 @@ I am a passionate software developer currently crushing it at **1337 Coding Scho
 | 🌟 **About Me** | 🚀 **42 Campus Mission** |
 | :--- | :--- |
 | **Name:** Salah Eddine Hrimiche | **Campus:** 1337 Rabat (42 Network) |
-| **Born:** 2001 (Level 24 ⬆️) | **Intra Profile:** [@shrimech](https://profile.intra.42.fr/users/shrimech) |
+| **Born:** 2001 (Level 25 ⬆️) | **Intra Profile:** [@shrimech](https://profile.intra.42.fr/users/shrimech) |
 | **Portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/) | **Status:** Transcendance Loading... |
 
 ---
@@ -21,14 +21,16 @@ I am a passionate software developer currently crushing it at **1337 Coding Scho
 ### 💻 Languages & Core
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web & Frameworks
+### 🌐 Web & DevOps
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -49,7 +51,7 @@ I am a passionate software developer currently crushing it at **1337 Coding Scho
 /*   🚀 Project: Super_Software_Engineer_V1.0                                 */
 /*   👤 Author:  Salah Eddine HRIMECHE (@shrimech)                            */
 /*   🏫 School:  42 "1337" RABAT                                              */
-/*   ⚡ Status:  Transcendance Loading... █ █ █ ░ ░                            */
+/*   ⚡ Status:  Transcendance Loading... █ █ █ █ ░                            */
 /*                                                                            */
 /* ************************************************************************** */
 
