@@ -1,32 +1,61 @@
-# 🔥 WHO AM I? - The Code Dynamo!
+# ⚡ Salah Eddine Hrimiche — The Code Dynamo
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="600"/>
+</p>
 
-  ![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+## 🧑‍💻 Who Am I?
 
+I am a passionate software developer currently crushing it at **1337 Coding School (42 Network) in Rabat**. I turn complex logic into efficient, clean code, fueled by deep focus and continuous learning.
 
-| 🌟 **About Salah Eddine** | 🚀 **My 42 Campus Mission** |
+| 🌟 **About Me** | 🚀 **42 Campus Mission** |
 | :--- | :--- |
-| 🧑‍💻 **Salah Eddine Hrimiche** | [![shrimech's 42 stats](https://badge.mediaplus.ma/greenbinary/shrimech)](https://profile.intra.42.fr/users/shrimech) |
-| 🎂 **The Year:** 2001 (Level Up ⬆️: 24!) | **Campus:** 1337 - Coding School RABAT |
-| ⚡️ CURRENT STATUS: **CRUSHING IT @ 1337!** 🚀 | **portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/) |
-| 📬 **My Inbox:** `<eddinen77@gmail.com>` | [**ACCESS 42 STATS!** ➡️](https://profile.intra.42.fr/users/shrimech) |
+| **Name:** Salah Eddine Hrimiche | **Campus:** 1337 Rabat (42 Network) |
+| **Born:** 2001 (Level 24 ⬆️) | **Intra Profile:** [@shrimech](https://profile.intra.42.fr/users/shrimech) |
+| **Portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/) | **Status:** Transcendance Loading... |
 
 ---
 
+## 🛠️ Tech Stack & Arsenal
 
+### 💻 Languages & Core
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## ⚡️ **Code Block Energy**
+### 🌐 Web & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-*(Just a bit of C code for the nostalgic developers!)*
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrimech&show_icons=true&theme=tokyonight&count_private=true" alt="Salah's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimech&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## ⚡ Code Block Energy
 
 ```c
 /* ************************************************************************** */
-/* * C O D I N G   F O R   T H E   W I N ! ! !   * ************************ */
+/*                                                                            */
+/*   🚀 Project: Super_Software_Engineer_V1.0                                 */
+/*   👤 Author:  Salah Eddine HRIMECHE (@shrimech)                            */
+/*   🏫 School:  42 "1337" RABAT                                              */
+/*   ⚡ Status:  Transcendance Loading... █ █ █ ░ ░                            */
+/*                                                                            */
 /* ************************************************************************** */
-/* */
-/* Project: Super_Software_Engineer_V1.0                                 */
-/* Author: Salah Eddine HRIMECHE (@shrimech)                             */
-/* School: 42 "1337"                                                     */
-/* Status: Transcendance Loading... █ █ █ ░ ░                             */
-/* */
-/* ************************************************************************** */
+
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello World! Ready to build something incredible today.\n");
+    return (0);
+}
