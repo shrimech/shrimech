@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BF723&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" />
 </p>
+
 | 🌟 **About Me** | 🚀 **42 Campus Mission** |
 | :--- | :--- |
 | **Name:** Salah Eddine Hrimiche | **Campus:** 1337 Rabat (42 Network) |
