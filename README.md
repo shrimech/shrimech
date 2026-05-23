@@ -37,11 +37,11 @@
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub & INTRA Metrics
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/shrimech" alt="Salah's GitHub Stats" width="38%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimech&theme=react-dark&hide_border=true&area=true" width="58%" alt="Contribution Graph"  />
+  <img src="https://badge.mediaplus.ma/greenbinary/shrimech" alt="Salah's GitHub Stats" width="38%" />
 </p>
 
 ---
@@ -65,11 +65,7 @@ int main(void) {
     return (0);
 }
 ```
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimech&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-  </a>
-</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shrimech&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
