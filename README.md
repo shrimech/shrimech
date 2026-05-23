@@ -38,7 +38,7 @@ I am a passionate software developer currently crushing it at **1337 Coding Scho
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/shrimech" alt="Salah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimech&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrimech&hide=contribs,prs" alt="Top Languages" width="48%" />
 </p>
 
 ---
