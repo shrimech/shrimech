@@ -64,3 +64,9 @@ int main(void) {
     printf("Hello World! Ready to build something incredible today.\n");
     return (0);
 }
+```
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokito-H&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  </a>
+</div>
