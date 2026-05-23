@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/shrimech" alt="Salah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shrimech&hide=contribs,prs" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimech&theme=react-dark&hide_border=true&area=true" width="48%" alt="Contribution Graph"  />
 </p>
 
 ---
