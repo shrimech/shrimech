@@ -70,3 +70,6 @@ int main(void) {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimech&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
   </a>
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lokito-H&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
