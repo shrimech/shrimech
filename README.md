@@ -65,7 +65,3 @@ int main(void) {
     return (0);
 }
 ```
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrimech&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
