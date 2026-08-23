@@ -1,6 +1,3 @@
-
-
-
 # ⚡ Salah Eddine Hrimiche — The Code Dynamo
 
 <p align="center">
