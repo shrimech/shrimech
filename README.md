@@ -34,15 +34,15 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+<!---
 
 ##  INTRA Metrics
 
 <p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimech&theme=react-dark&hide_border=true&area=true" width="58%" alt="Contribution Graph"  /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimech&theme=react-dark&hide_border=true&area=true" width="58%" alt="Contribution Graph"  /> 
   <img src="https://badge.mediaplus.ma/greenbinary/shrimech" alt="Salah's Intra Stats" width="38%" />
 </p>
-
+-->
 ---
 
 ## ⚡ Code Block Energy
