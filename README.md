@@ -1,4 +1,4 @@
-# ⚡ Salah Eddine Hrimiche — The Code Dynamo
+# ⚡ Salah Eddine Hrimeche — The Code Dynamo
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 | 🌟 **About Me** | 🚀 **42 Campus Mission** |
 | :--- | :--- |
-| **Name:** Salah Eddine Hrimiche | **Campus:** 1337 Rabat (42 Network) |
+| **Name:** Salah Eddine Hrimeche | **Campus:** 1337 Rabat (42 Network) |
 | **Born:** 2001 (Level 25 ⬆️) | **Intra Profile:** [@shrimech](https://profile.intra.42.fr/users/shrimech) |
 | **Portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/) | **Status:** Transcendance Loading... |
 
